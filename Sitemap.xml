@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://officialcashwise.github.io/Officialcashwise-/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://officialcashwise.github.io/Officialcashwise-/index.html</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- Core Pages -->
+  <url>
+    <loc>https://officialcashwise.github.io/Officialcashwise-/about.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://officialcashwise.github.io/Officialcashwise-/contact.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://officialcashwise.github.io/Officialcashwise-/privacy.html</loc>
+    <priority>0.60</priority>
+  </url>
+
+  <url>
+    <loc>https://officialcashwise.github.io/Officialcashwise-/disclaimer.html</loc>
+    <priority>0.60</priority>
+  </url>
+
+  <url>
+    <loc>https://officialcashwise.github.io/Officialcashwise-/publisher.html</loc>
+    <priority>0.60</priority>
+  </url>
+
+  <!-- Pages Section -->
+  <url>
+    <loc>https://officialcashwise.github.io/Officialcashwise-/pages/budgeting.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://officialcashwise.github.io/Officialcashwise-/pages/saving.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://officialcashwise.github.io/Officialcashwise-/pages/banking.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://officialcashwise.github.io/Officialcashwise-/pages/cost-of-living.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://officialcashwise.github.io/Officialcashwise-/pages/earn.html</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Tools -->
+  <url>
+    <loc>https://officialcashwise.github.io/Officialcashwise-/tools/budget-calculator.html</loc>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://officialcashwise.github.io/Officialcashwise-/tools/savings-calculator.html</loc>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://officialcashwise.github.io/Officialcashwise-/tools/loan-calculator.html</loc>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- Articles -->
+  <url>
+    <loc>https://officialcashwise.github.io/Officialcashwise-/article/budgetarticle.html</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://officialcashwise.github.io/Officialcashwise-/article/top-5-ways-to-save-money.html</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://officialcashwise.github.io/Officialcashwise-/article/banking-article.html</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://officialcashwise.github.io/Officialcashwise-/article/costofliving.html</loc>
+    <priority>0.70</priority>
+  </url>
+
+</urlset>
